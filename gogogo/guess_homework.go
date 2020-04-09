@@ -2,7 +2,7 @@ package main
 import "fmt"
 import "time"
 import "math/rand"
-
+lxyxly
 
 func main() {
 	var guessVal int
